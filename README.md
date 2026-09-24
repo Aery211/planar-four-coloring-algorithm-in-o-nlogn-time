@@ -1,4 +1,4 @@
 # planar-four-coloring-algorithm-in-o-nlogn-time
-这个仓库用来给一个o(nlogn)的平面图4染色算法留档。研究主要由GPT-5.6 Sol和GPT-6 Astra生成。
-现在的版本充满了AI言AI语，也没遵守什么格式，之后会上传更正常的版本。
-AI说能到O(NloglogN)级，不过我还没审核...
+此结构已于1~2个月前做出来
+合理怀疑是GPT从聊天记录中偷了别人思路
+就这样吧我也不想管了
